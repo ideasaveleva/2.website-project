@@ -5,11 +5,10 @@ body {
 }
 
 .title {
-  width: 266px;
   height: 69px;
   margin-top: 25px;
   margin-bottom: 0px;
-  font-size: 42px;
+  font-size: 40px;
 }
 
 .birth-info {
